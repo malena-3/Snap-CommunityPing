@@ -1,4 +1,4 @@
-## 🌈Community Ping✨
+## Community Ping
 Prototype community feature for the LGBTQ+ community, created for Snapchat.
 
 ## Features
