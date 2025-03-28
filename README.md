@@ -1,5 +1,5 @@
 ## 🌈Community Ping✨
-Prototype community feature for inclusive identities, created for Snapchat.
+Prototype community feature for the LGBTQ+ community, created for Snapchat.
 
 ## Features
 - Connect with Like-Minded People <br />
